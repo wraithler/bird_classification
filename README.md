@@ -20,3 +20,7 @@ This is a simple Streamlit web app that classifies bird species based on uploade
 - Scikit-learn
 - Pandas
 - Matplotlib
+
+## Model Info
+
+This project uses a pre-trained model adapted from the WildWav GitHub repository. The model was originally trained on a larger dataset and has been simplified to detect a limited set of bird species: Cardinal, Mourning Dove, Pigeon, and Blue Jay.
