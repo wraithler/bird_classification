@@ -23,4 +23,4 @@ This is a simple Streamlit web app that classifies bird species based on uploade
 
 ## Model Info
 
-This project uses a pre-trained model adapted from the WildWav GitHub repository. The model was originally trained on a larger dataset and has been simplified to detect a limited set of bird species: Cardinal, Mourning Dove, Pigeon, and Blue Jay.
+This project uses a pre-trained model adapted from the WildWav GitHub (https://github.com/SughoshKulkarni/WildWav) repository. The model was originally trained on a larger dataset and has been simplified to detect a limited set of bird species: Cardinal, Mourning Dove, Pigeon, and Blue Jay.
